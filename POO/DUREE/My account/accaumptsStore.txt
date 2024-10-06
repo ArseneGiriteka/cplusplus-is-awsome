@@ -1,0 +1,136 @@
+user name :binko
+First name :arsene
+mindel name :biba
+Last name :Giriteka
+Age :16
+Adress :Masaka
+Phone number :69653909
+E-mail :giritekaarsene@gmail.com
+Password :biba______________________________________
+user name :kirajagaye
+First name :Kirajagaye
+mindel name :kirajagaye
+Last name :juvenal
+Age :47
+Adress :Bwiza
+Phone number :79740765
+E-mail :kikijuv@gmail.com
+Password :kiki______________________________________
+user name :bcu
+First name :coiq
+mindel name :qiu
+Last name :qui
+Age :0
+Adress :
+Phone number :0
+E-mail :
+Password :______________________________________
+user name :
+First name :
+mindel name :
+Last name :
+Age :-1
+Adress :
+Phone number :4257001
+E-mail :
+Password :______________________________________
+user name :vio
+First name :bio
+mindel name :kio
+Last name :jio
+Age :45
+Adress :94
+Phone number :8578030
+E-mail :bjo
+Password :bidondon
+______________________________________
+user name :bio
+First name :mio
+mindel name :hfid
+Last name :duw
+Age :0
+Adress :
+Phone number :4256953
+E-mail :
+Password :
+______________________________________
+user name :bio
+First name :bio
+mindel name :pio
+Last name :jio
+Age :45
+Adress :hfggdu
+Phone number :0
+E-mail :
+Password :
+______________________________________
+user name :biba
+First name :arsene
+mindel name :biba
+Last name :giriteka
+Age :34
+Adress :seatle,silicon
+Phone number :0
+E-mail :
+Password :
+______________________________________
+user name :biba
+First name :biba
+mindel name :sans
+Last name :dou
+Age :56
+Adress :kinanira
+Phone number :65789
+E-mail :biba@gmail.com
+Password :kiki
+______________________________________
+user name :gigi
+First name :gigi
+mindel name :lol
+Last name :joker
+Age :19
+Adress :figaro
+Phone number :7659908
+E-mail :gigi@gmail.com
+Password :hihtec
+______________________________________
+user name :bibs
+First name :sjid
+mindel name :duf
+Last name :du
+Age :56
+Adress :hgio
+Phone number :865947
+E-mail :gigim@gmail.com
+Password :titire
+______________________________________
+user name :jjfj
+First name :fkikff
+mindel name :f
+Last name :ff
+Age :0
+Adress :
+Phone number :4257113
+E-mail :
+Password :
+______________________________________
+user name :hhfh
+First name :hhfh
+mindel name :jbjf
+Last name :jjjf
+Age :44
+Adress :444
+Phone number :44444
+E-mail :44444
+Password :44
+______________________________________
+user name :hhhr
+First name :jj
+mindel name :gg
+Last name :ggg
+Age :43
+Adress :344
+Phone number :4444
+E-mail :44
+Password :44
+______________________________________

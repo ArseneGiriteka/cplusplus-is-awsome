@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1577020324 source:c:\openclassrooms\cours c++\programme9_tp_motmystere\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1577052297 source:c:\openclassrooms\cours c++\programme11_evaluation_ch1_tp_motmystere\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+
+1577053145 source:c:\openclassrooms\cours c++\programme11_evaluation_ch1_tp_motmystere\programme9_tp_motmystere\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+

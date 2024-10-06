@@ -1,0 +1,25 @@
+#ifndef NUBERS_TYPES_H
+#define NUBERS_TYPES_H
+
+class integer
+{
+ public:
+   int operator+(int b);
+   double operator+(double b);
+   int operator-(int b);
+   double operator-(double b);
+   int operator*(int b);
+   double operator*(double b);
+   int operator/(int b);
+   double operator/(double b);
+   bool operator<(int b);
+   bool operator<(double b);
+   bool operator>(int b);
+   
+ protected:
+    int *entier;
+    
+    
+};
+
+#endif // NUBERS_TYPES_H

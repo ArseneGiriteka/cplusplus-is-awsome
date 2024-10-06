@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1605671673 source:d:\serieux\open_classroom c++\kia\poo-deux\arme.cpp
+	"Arme.h"
+
+1605671673 d:\serieux\open_classroom c++\kia\poo-deux\arme.h
+	<iostream>
+	<string>
+
+1605671671 source:d:\serieux\open_classroom c++\kia\poo-deux\main.cpp
+	<iostream>
+	<string>
+	"Personnage.h"
+
+1605671673 d:\serieux\open_classroom c++\kia\poo-deux\personnage.h
+	<iostream>
+	<string>
+	"Arme.h"
+
+1605671671 source:d:\serieux\open_classroom c++\kia\poo-deux\personnage.cpp
+	"Personnage.h"
+
